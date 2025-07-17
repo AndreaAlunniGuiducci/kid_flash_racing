@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3507d80.css",
-    "main.js": "/static/js/main.776b4ead.js",
-    "static/js/453.83059e18.chunk.js": "/static/js/453.83059e18.chunk.js",
-    "static/media/kidFlash2.jpg": "/static/media/kidFlash2.2f632b562f5d9edafce8.jpg",
-    "static/media/kidFlash1.jpg": "/static/media/kidFlash1.9fc2d7621fe511e58966.jpg",
-    "static/media/fulmine.webp": "/static/media/fulmine.8355422d29a39f2b98c9.webp",
-    "static/media/vita.webp": "/static/media/vita.2fe75d6c52526b93a06f.webp",
-    "static/media/ostacolo.png": "/static/media/ostacolo.433e7d32ad343614d8e2.png",
-    "index.html": "/index.html",
-    "main.c3507d80.css.map": "/static/css/main.c3507d80.css.map",
-    "main.776b4ead.js.map": "/static/js/main.776b4ead.js.map",
-    "453.83059e18.chunk.js.map": "/static/js/453.83059e18.chunk.js.map"
+    "main.css": "/kid_flash_racing/static/css/main.c3507d80.css",
+    "main.js": "/kid_flash_racing/static/js/main.9e616547.js",
+    "static/js/453.83059e18.chunk.js": "/kid_flash_racing/static/js/453.83059e18.chunk.js",
+    "static/media/kidFlash2.jpg": "/kid_flash_racing/static/media/kidFlash2.2f632b562f5d9edafce8.jpg",
+    "static/media/kidFlash1.jpg": "/kid_flash_racing/static/media/kidFlash1.9fc2d7621fe511e58966.jpg",
+    "static/media/fulmine.webp": "/kid_flash_racing/static/media/fulmine.8355422d29a39f2b98c9.webp",
+    "static/media/vita.webp": "/kid_flash_racing/static/media/vita.2fe75d6c52526b93a06f.webp",
+    "static/media/ostacolo.png": "/kid_flash_racing/static/media/ostacolo.433e7d32ad343614d8e2.png",
+    "index.html": "/kid_flash_racing/index.html",
+    "main.c3507d80.css.map": "/kid_flash_racing/static/css/main.c3507d80.css.map",
+    "main.9e616547.js.map": "/kid_flash_racing/static/js/main.9e616547.js.map",
+    "453.83059e18.chunk.js.map": "/kid_flash_racing/static/js/453.83059e18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3507d80.css",
-    "static/js/main.776b4ead.js"
+    "static/js/main.9e616547.js"
   ]
 }
