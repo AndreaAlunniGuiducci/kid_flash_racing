@@ -1,6 +1,7 @@
 {
   "name": "kid_flash_racing",
   "version": "0.1.0",
+  "homepage": "https://andreaalunniguiducci.github.io/kid_flash_racing/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
